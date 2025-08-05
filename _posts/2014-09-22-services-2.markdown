@@ -1,8 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: mao.png
 category: Services
-title: Organização
+title: Apoio
 description: |
 ---
-Organização
+Apoios

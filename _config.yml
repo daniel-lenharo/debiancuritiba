@@ -7,7 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "debian.curitiba.br" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: debiancuritiba
-github_username:  
+github_username:  daniel-lenharo
 
 # Build settings
 theme: minima
