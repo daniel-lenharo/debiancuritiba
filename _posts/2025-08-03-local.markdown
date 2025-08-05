@@ -1,0 +1,12 @@
+---
+layout: default
+img: Local.png
+category: schedule
+title: Local
+description: |
+---
+O evento acontecerá na Universidade Tecnológica Federal do Paraná - UTFPR, campus Centro - Av. Sete de Setembro, 3165 Rebouças na Sala CA-301 (bloco A).
+
+[Link OPM](https://www.openstreetmap.org/directions?from=&to=-25.439363%2C-49.268929#map=18/-25.439641/-49.269299)
+
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-49.27340805530549%2C-25.441559778484233%2C-49.26444947719575%2C-25.43716116654381&amp;layer=mapnik&amp;marker=-25.4393604925925%2C-49.26892876625061" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=-25.439360&amp;mlon=-49.268929#map=18/-25.439360/-49.268929">Ver mapa ampliado</a></small>
