@@ -1,0 +1,64 @@
+---
+layout: default
+img: schedule.png
+category: schedule
+title: Programação
+description: |
+---
+  Programação em Breve!
+
+
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black; width: 100px; text-align: center;">Horário</th>
+      <th style="border: 1px solid black; width: 150px; text-align: center;">Título</th>
+      <th style="border: 1px solid black; width: 300px; text-align: center;">Descrição</th>
+      <th style="border: 1px solid black; width: 150px; text-align: center;">Palestrante</th>
+     </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black;">09:00</td>
+      <td style="border: 1px solid black;">Abertura</td>
+      <td style="border: 1px solid black;">Abertura do Evento</td>
+      <td style="border: 1px solid black;">Organização</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;">09:30</td>
+      <td style="border: 1px solid black;"></td>
+      <td style="border: 1px solid black;"></td>
+      <td style="border: 1px solid black;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;">10:00</td>
+      <td style="border: 1px solid black;"></td>
+      <td style="border: 1px solid black;"></td>
+      <td style="border: 1px solid black;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;">10:30</td>
+      <td style="border: 1px solid black;"></td>
+      <td style="border: 1px solid black;"></td>
+      <td style="border: 1px solid black;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;">11:00</td>
+      <td style="border: 1px solid black;"></td>
+      <td style="border: 1px solid black;"></td>
+      <td style="border: 1px solid black;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;">11:30</td>
+      <td style="border: 1px solid black;"></td>
+      <td style="border: 1px solid black;"></td>
+      <td style="border: 1px solid black;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;">12:00</td>
+      <td style="border: 1px solid black;">Encerramento</td>
+      <td style="border: 1px solid black;">Encerramento do Evento</td>
+      <td style="border: 1px solid black;">Organização</td>
+    </tr>
+  </tbody>
+</table>
