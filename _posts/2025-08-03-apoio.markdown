@@ -1,7 +1,7 @@
 ---
 layout: default
 img: mao.png
-category: Services
+category: apoio
 title: Apoio
 description: |
 ---

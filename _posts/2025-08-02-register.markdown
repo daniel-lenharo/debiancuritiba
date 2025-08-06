@@ -1,0 +1,16 @@
+---
+layout: default
+img: register.png
+category: register
+title: Inscrição
+description: |
+---
+  Faça sua inscrição!
+
+  Fazendo sua inscrição, você nos ajuda a dimensionar o evento da melhor forma possível!
+
+   
+      
+
+
+[Link para se registrar!](https://docs.google.com/forms/d/e/1FAIpQLSfYTShOdzmTHHSBc8X-yjg0HLSHHQtoxC6mmlyuB0ALIhKJ0Q/viewform)
