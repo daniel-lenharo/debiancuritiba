@@ -5,4 +5,7 @@ category: apoio
 title: Apoio
 description: |
 ---
-Apoios
+Este evento é feito da comunidade para a comunidade!
+
+A UTFPR nos cedeu o espaço gratuitamente!
+
