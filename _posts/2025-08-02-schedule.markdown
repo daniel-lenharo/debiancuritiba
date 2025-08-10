@@ -51,7 +51,7 @@ description: |
     <tr>
       <td style="border: 1px solid black;">11:00</td>
       <td style="border: 1px solid black;">Como o Software Está Presente no Dia a Dia</td>
-      <td style="border: 1px solid black;"></td>
+      <td style="border: 1px solid black;">O Software Livre está muito mais presente em nossas vidas do que imaginamos — dos servidores que sustentam a internet aos aplicativos no nosso celular. Nesta palestra, vamos explorar exemplos práticos de como essas tecnologias moldam nosso cotidiano, seu impacto econômico e social, e como qualquer pessoa pode contribuir para essa comunidade global.</td>
       <td style="border: 1px solid black;">Leonardo Rodrigues</td>
     </tr>
     <tr>
