@@ -11,6 +11,6 @@ description: |
 
    
       
+#### Inscrições encerradas
 
-
-[Link para se registrar!](https://docs.google.com/forms/d/e/1FAIpQLSfYTShOdzmTHHSBc8X-yjg0HLSHHQtoxC6mmlyuB0ALIhKJ0Q/viewform)
+[Link para se registrar!](https://www.debian.org)
